@@ -4,6 +4,6 @@ buildscript {
     }
 
     dependencies {
-        classpath("com.google.protobuf:protobuf-java:3.11.1")
+        classpath("com.google.protobuf:protobuf-java:3.16.3")
     }
 }
